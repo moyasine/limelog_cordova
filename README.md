@@ -1,3 +1,3 @@
 # limelog_cordova
 
-Hello Moyashin
+Hello Moyashin & Tomomi
